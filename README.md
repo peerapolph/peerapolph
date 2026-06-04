@@ -17,7 +17,7 @@
 **_Programming / Framework_**
 
 - ⚡ <strong>Go</strong>: Fiber | Gorm  
-- ✨ <strong>Js/Ts</strong>: Node.js, Express, Next.js  
+- ✨ <strong>Js/Ts</strong>: Node.js, Express, Fastify, Next.js  
 - 🐍 <strong>Python</strong>  
 - 🐘 <strong>PHP</strong>: Laravel  
 - 🤖 <strong>Microcontroller</strong>: 🔌 Arduino, 📶 NodeMCU  
